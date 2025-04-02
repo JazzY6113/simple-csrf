@@ -7,7 +7,7 @@ use Src\Request;
 
 class CSRFMiddleware
 {
-    public function handle(Request $request): void
+    public function handle(Request $request)
     {
         if ($request->method !== 'POST') {
             return;
