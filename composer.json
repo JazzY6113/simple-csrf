@@ -1,0 +1,8 @@
+{
+    "name": "jazzy6113/simple-csrf",
+    "description": "csrf",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
